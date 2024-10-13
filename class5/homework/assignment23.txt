@@ -1,0 +1,5 @@
+# Name: Owen Shi
+# Date: Oct. 12th, 2024
+# Program #23:  Computes NOR of two inputs, using only AND, OR, and NOT gates
+
+out = (not (in1 or in2))
