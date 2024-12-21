@@ -1,0 +1,6 @@
+# Name: Owen Shi
+# Date Dec. 8th, 2024
+# Assignment 52
+
+ls -l | grep ".py" | wc -l
+

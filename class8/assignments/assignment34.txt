@@ -1,0 +1,5 @@
+# Name: Owen Shi
+# Date: Fri., Nov. 1, 2024
+# Assignment 34
+
+out = ((not in1) or in1)

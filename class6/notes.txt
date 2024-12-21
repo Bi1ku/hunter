@@ -1,0 +1,3 @@
+pandas.read_csv() -> translates csv or excel files to a two D array
+
+A series is either a column or row

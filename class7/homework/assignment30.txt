@@ -1,0 +1,8 @@
+# Name: Owen Shi 
+# Date: Oct. 27
+# Logical expressions for a 4-bit incrementer
+
+out1 = in1 and in2  # Carry for the incrementer
+out2 = (in1 and not in2) or (not in1 and in2)  # XOR for one input being True
+out3 = (not in1 and not in2) or (in1 and not in2)  # True when input is 00 or 10
+

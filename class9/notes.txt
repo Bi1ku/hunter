@@ -1,0 +1,26 @@
+# can plot csv files directly. related libraries?
+
+fig = plt.getgcf()
+
+fig.savefig(output_file_name)
+
+img = plt.imread(input_file_name) # review this
+
+# returns a 2d array. width, height, color
+
+------------------------------------------------------------
+
+A = 10
+B = 11
+C = 12
+D = 13
+E = 14
+F = 15
+
+multiply by x16 to get base 10 value
+
+#XXPPKK
+
+XX = r val in hex code
+PP = g val in hex code
+KK = b val in hex code 
